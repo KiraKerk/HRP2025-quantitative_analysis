@@ -1,7 +1,7 @@
 # HRP2025-quantitative_analysis
-# Data Analysis for: 
+# Data Analysis for: Harmonized nucleoside mass spectrometry enables reproducible cross-platform RNA modification quantification
 
-This repository contains the R code used for the quantitative data analysis and figure generation in the manuscript **""**.
+This repository contains the R code used for the quantitative data analysis and figure generation in the manuscript **"Harmonized nucleoside mass spectrometry enables reproducible cross-platform RNA modification quantification"**.
 
 ## Contents
 * `[Rscriptfor_GIThub.R]`: The primary R script containing the code for data preparation, calculation of external calibration curves via regression analysis for the absolute quantification of nucleosides measured by LC-MS/MS, and data visualization.
